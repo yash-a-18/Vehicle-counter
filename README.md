@@ -1,4 +1,4 @@
-# counting-vehicles
+# Vehicle Counter
 
 ## This mini-code will help you to count number of each vehicles from image file.
 
